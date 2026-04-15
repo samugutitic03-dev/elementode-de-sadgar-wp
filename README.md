@@ -1,3 +1,3 @@
-# elementode-de-sodgar-wp
+# elementode-de-softwar-wp
 
-repositorio de elemetos de sodgar wep creado para trabajar el frotend y todos los lenguajes de programasion relacionados (html,css,javascrit)
+repositorio de elemetos de softwar wep creado para trabajar el frotend y todos los lenguajes de programasion relacionados (html,css,javascrit)
