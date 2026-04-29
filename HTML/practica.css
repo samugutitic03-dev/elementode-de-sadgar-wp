@@ -1,0 +1,97 @@
+body {
+    font-size: medium;
+    background-color: rgb(105, 105, 112);
+    color: rgb(0, 0, 0);
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(139, 0, 0);
+    color: beige;
+    padding: 20px;
+    text-align: center;
+}
+
+nav{ 
+    background-color: rgb(155, 142, 142);
+    padding: 10px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+nav {
+color: aliceblue;
+text-decoration: none;
+margin: 0 15px;
+font-weight: bold;
+}
+
+nav a:hover {
+ color: brown;
+}
+
+main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+section {
+    background-color: aliceblue;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+article {
+    border-left: 4px salmon ;
+    padding-left: 15px;
+    margin-bottom: 20xp;
+}
+
+aside {
+    background-color: aquamarine;
+    padding: 10xp;
+    border-radius: 8px;
+    font-size: 0.9em;
+}
+
+table { 
+    width: 100%;
+    border-collapse: collapse ;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px salmon;
+}
+
+th {
+    background-color: blueviolet;
+    color: antiquewhite;
+}
+
+footer {
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.resaltado {
+    color: blueviolet;
+}
+
+.boton {
+    display: inline-block;
+    background-color: blueviolet;
+    color: antiquewhite;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
